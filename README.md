@@ -1,12 +1,12 @@
-# Apresentação acadêmica sobre Git
+# Academic presentation on Git
 
-Material de apresentação na universidade para demonstrar conceitos e funcionalidades do Git.
+University presentation material demonstrating Git concepts and features.
 
-## Conteúdo
+## Contents
 
-- [GIT Report.pdf](GIT%20Report.pdf): material da apresentação.
-- `gitReport/`: pequeno projeto Java usado como apoio à demonstração.
+- [GIT Report.pdf](GIT%20Report.pdf): presentation material.
+- `gitReport/`: small Java project used to support the demonstration.
 
-## Como utilizar
+## Usage
 
-Consulte o PDF para acompanhar o conteúdo. O objetivo principal deste repositório é registrar material didático e exemplos de versionamento, não disponibilizar uma aplicação de produto.
+Read the PDF to follow the presentation. This repository records teaching material and version-control examples rather than a product application.
